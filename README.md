@@ -32,14 +32,3 @@ Follow these steps:
 
   11. Right-click on the "assignment5" project in Eclipse, select "Run As" and "JUnit Test" to run our tests to verify your solution
 
-  12. Once complete, zip your "assignment5" folder
-
-### 3. HackerRank
-
-  1. Navigate to [this assignment on HackerRank](https://www.hackerrank.com/test/brmed3q9m6h/4a65dfa9c959c3aca5d6df324db6a184?try_test=true)
-
-  2. Click on "Upload code as Zip" and select your zip file
-
-  3. You can click on the "Run Unit Tests" button to confirm it is working.
-
-  4. Click Submit
